@@ -25,7 +25,7 @@ We do not share or sell your data to third parties.
 
 We take reasonable precautions to protect the data collected by Kitami. However, no method of electronic transmission or storage is 100% secure. Therefore, we cannot guarantee the absolute security of your data.
 
-## 4. No Guarantees
+## 4. No Warranty and Liability Disclaimer
 
 Kitami is provided on an **“as-is”** basis, without any guarantees or warranties regarding the service’s reliability, security, or fitness for a particular purpose. While we aim to maintain security and stability, we do not provide any explicit or implicit guarantees on these aspects.
 
